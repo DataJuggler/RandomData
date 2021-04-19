@@ -12,7 +12,7 @@ Download this repo and extra the zip file contents.
 
 Execute the SQL Script RandomData.sql.
 
-This will create all your tables.
+This will create the database schema and populate the tables.
 
 I am working on a Random Story Generator is why I created this.
 
